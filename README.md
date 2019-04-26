@@ -52,8 +52,8 @@ git clone https://github.com/...my_repository
 ```
 
 ##### Step 2) Creating Commits
-**YOU SHOULD DO THIS STEP EVERY 20-30 MINUTES!!**
-Commits are what create your messages so that Dr. Riedel can see your changes. You should do this, in all honesty, when you get a big change working in your code. To create a commit with a message, use the commands below in your Command Prompt/Terminal, while in your Git repository (folder/directory with all of your code on your computer).
+**YOU SHOULD DO THIS STEP THAT MAKES PROGRESS!!**
+Commits are what create your messages so that Dr. Riedel can see your changes. You should do this when you get any change towards getting your code working. To create a commit with a message, use the commands below in your Command Prompt/Terminal, while in your Git repository (folder/directory with all of your code on your computer).
 **Command 1:**
 ```shell
 git add .
@@ -71,7 +71,7 @@ git push
 ```
 
 ##### Step 4) ONLY if you Edited Something on GitHub
-You need to pull down your changes you don't have a discrepancy between the code on GitHub and the code on your computer. You simply type the command below in your Command Prompt/Terminal, while in your Git repository (folder/directory with all of your code on your computer).
+You need to pull down your changes so you don't have a discrepancy between the code on GitHub and the code on your computer. You simply type the command below in your Command Prompt/Terminal, while in your Git repository (folder/directory with all of your code on your computer).
 ```shell
 git pull
 ```
